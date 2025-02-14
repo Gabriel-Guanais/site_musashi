@@ -1,8 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
+
+/* Reset criado por Gabriel Correa */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Playfair Display", serif;
+}
+  
+body {
+    min-height: 100vh; /* Garante que o corpo ocupe pelo menos toda a tela */
+}
+
+ul, ol {
+    list-style: none; /* Tira bolinha das listas */
+}
+
+img {
+    max-width: 100%; /* Imagens não ultrapassam o tamanho do container */
+    display: block; /* Remove espaço embaixo da imagem */
+}
+
+a {
+    text-decoration: none; /* Tira o sublinhado dos links */
+}
+
+button, input {
+    font: inherit; /* Usa a mesma fonte do body */
+    border: none; /* Remove borda padrão */
+    background: none; /* Remove fundo cinza do botão */
 }
