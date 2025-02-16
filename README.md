@@ -25,24 +25,20 @@ Site dedicado à obra-prima **Vagabond** de Takehiko Inoue, explorando a jornada
 
 ## 🖥️ Preview
 
-<!-- ![Preview do Site](./assets/imagens/preview.png)   -->
-*(Adicione uma screenshot real do projeto como 'preview.png' na pasta imagens)*
+![Preview do Inicio](./assets/imagens/previw.png)
+![Preview da area de contato](./assets/imagens/previw%20contato.png)
+
+
 
 ## 🌌 Roadmap
 
-- [x] Seção Hero inicial
+- [x] Seção inicial
 - [ ] Biografia completa
 - [ ] Galeria de personagens
 - [ ] Timeline das batalhas
 - [ ] Modo noturno
 
 
-## 📜 Licença
-
-Este projeto está sob licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
 <p align="center">
-  ✍️ Feito com ❤️ e <i>mushin</i> por [Seu Nome]
+  ✍️ Feito com ❤️ e <i>mushin</i> por Gabriel Correa
 </p>
