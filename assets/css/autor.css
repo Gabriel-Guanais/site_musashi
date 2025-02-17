@@ -1,0 +1,47 @@
+.autor {
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+
+.autor-container {
+    flex: 1;
+}
+
+.autor-titulo {
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
+
+.autor-paragrafo {
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+/* imgs */
+.autor-musashi-img {
+    width: 250px;
+    border: 2px solid black;
+    flex-shrink: 0;
+}
+
+@media (max-width: 1200px) {
+    .autor {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 40px;
+    }
+
+    .autor-titulo {
+        font-size: 1.8rem;
+    }
+
+    .autor-paragrafo {
+        font-size: 0.9rem;
+    }
+
+    .autor-musashi-img {
+        width: 100px;
+    }
+}

@@ -2,7 +2,7 @@
 
 .galeria-grid{
     display: grid;
-    grid-template-columns: repeat(auto-fit, 300px); /* pode colocar o auto-fit tambem*/
+    grid-template-columns: repeat(auto-fit, 300px); /* pode colocar o auto-fit tambem se quiser*/
     gap: 10px;
     justify-content: center;
 }

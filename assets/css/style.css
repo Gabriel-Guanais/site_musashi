@@ -21,23 +21,11 @@
 .cabecalho-button {
     color: black;
     padding: 9px 20px;
-    background-color: transparent;
     border: 1px solid #141211;
     border-radius: 50px;
     font-size: 20px;
-    box-shadow: 0 0 0;
-    transition: all 200ms;
 }
 
-.cabecalho-button:hover {
-    transform: translateY(-10px);
-    box-shadow: 0px 12px 1px #141211;
-}
-
-.cabecalho-button:active {
-    transform: translateY(10px);
-    box-shadow: 0 0 0;
-}
 
 .cabecalho-logo-img{
     cursor: pointer;
@@ -76,6 +64,26 @@ main{
     flex-shrink: 0;
 }
 
+
+/* footer */
+
+.footer {
+    padding: 20px 0;
+    margin-top: 20px;
+    border-top: 2px solid #000000;
+}
+
+.footer-container {
+    max-width: 1200px;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: 0.5rem;
+}
+
+
+
 @media (max-width: 1200px) {
     .inicio {
         flex-direction: column; 
@@ -94,5 +102,9 @@ main{
 
     .inicio-musashi-img {
         width: 300px;  
+    }
+
+    .footer-text {
+        font-size: 0.2rem;
     }
 }
