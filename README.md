@@ -25,7 +25,11 @@ Site dedicado à obra-prima **Vagabond** de Takehiko Inoue, explorando a jornada
 
 ## 🖥️ Preview
 
+Tela Inicial:
 ![Preview do Inicio](./assets/imagens/previw.png)
+Galeria:
+![Preview da galeria](./assets/imagens/previw%20galeria.png)
+Area de Contato:
 ![Preview da area de contato](./assets/imagens/previw%20contato.png)
 
 
@@ -40,5 +44,5 @@ Site dedicado à obra-prima **Vagabond** de Takehiko Inoue, explorando a jornada
 
 
 <p align="center">
-  ✍️ Feito com ❤️ e <i>mushin</i> por Gabriel Correa
+  ✍️ Feito com ❤️ por Gabriel Correa
 </p>
