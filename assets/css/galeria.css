@@ -1,0 +1,37 @@
+
+
+.galeria-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px); /* pode colocar o auto-fit tambem*/
+    gap: 10px;
+    justify-content: center;
+}
+
+.galeria-item{
+    border: 2px solid black;
+    margin: 1%;
+}
+
+.galeria-item img{
+    width: 100%; 
+    height: 280px; 
+    object-fit: cover; /*esse negocio é util pra crl*/
+}
+
+.galeria-legenda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+
+.galeria-img-principal{
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 5px;
+    border: 2px solid black;
+}
+
+
